@@ -3,7 +3,7 @@
  - Окно авторизации
  ![Auth](C:\Users\Евгений\Kamil\docs\a\1.png)
 
- - Главное меню программы
- ![Menu](C:\Users\Евгений\footclub\docs\a\2.png)
- - Страница работы со скаутами
- ![Scout](C:\Users\Евгений\footclub\docs\a\3.png)
+ - Функции
+ ![Menu](C:\Users\Евгений\Kamil\docs\a\2.png)
+ - Интерфейс
+ ![Scout](C:\Users\Евгений\Kamil\docs\a\3.png)
